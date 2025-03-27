@@ -1,0 +1,10 @@
+langchain-anthropic
+pydantic
+typing-extensions
+tqdm
+pandas
+argparse
+ipython
+json
+langgraph
+python-dotenv
